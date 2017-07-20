@@ -22,3 +22,22 @@ li a {
 li a:hover {
     background-color: #A69F9B;
 }
+
+/* Intro */
+#firstHeading {
+    text-align: center;
+}
+
+.container#introImg {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:750px;
+}
+
+#centerButton {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 250px;
+}
