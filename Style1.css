@@ -41,3 +41,18 @@ li a:hover {
     margin-right:auto;
     width: 250px;
 }
+
+#secondHeading {
+    text-align: center;
+}
+
+.threeImages img {
+
+    display: block;
+    margin: auto;
+    width: auto;
+    height: 300px;
+
+    /*margin-left:auto;
+    margin-right:auto;*/
+}
